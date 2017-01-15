@@ -1,0 +1,9 @@
+[package]
+name = "peregrine"
+version = "0.0.1"
+authors = ["Hunter N. Morgan <hunterm522@gmail.com>"]
+readme = "README.MD"
+description = "3D virtual globe library written in Rust"
+
+[dependencies]
+glium = "*"
